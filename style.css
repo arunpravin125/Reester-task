@@ -1,0 +1,148 @@
+.container{
+    padding: 50px;
+  font-family: "Open Sans", sans-serif;
+  
+
+}
+
+.section-one{
+    background-color: black;
+    color: azure;
+    text-align: center;
+    padding: 5px;
+}
+.section-one__title:hover{
+    color:hotpink;
+
+}
+.section-one__role:hover{
+    color:rgb(19, 231, 16);
+}
+/* section two */
+.section-two{
+    background-color: rgb(242, 247, 251);
+    /* color: black; */
+    display: inline-block;
+    border: solid black 1px;
+    margin-top: 5px;
+    margin-left: 150px;
+}
+.section-two__food1{
+    height: 203px;
+    width: 150px;
+    display: inline;
+    /* margin-top: 10px; */
+    /* border: solid black 5px; */
+}
+.section-two__title,.section-two__description{
+   font-size: 10px;
+   margin-top: 10px;
+   text-align:center ;
+}
+.section-two__button1{
+    background-color: black;
+    color: aliceblue;
+    padding: 5px;
+    margin-left: 35px;
+ 
+}
+/* section three */
+.section-three{
+    background-color: aliceblue;
+    border: solid black 1px;
+    display: inline-block;
+    margin-top: 1px;
+    padding: 2px;
+  
+}
+.section-three__food2{
+    height: 203px;
+    width: 150px;
+    display: inline-block;
+}
+.section-three__title,.section-three__description{
+    font-size: 10px;
+    text-align: center;
+}
+.section-three__button2{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    margin-left: 30px;
+    padding: 5px;
+}
+/* section three finish */
+.section-four{
+    display: inline-block;
+    background-color: aliceblue;
+    border: solid black 1px;
+    margin-top: 2px;
+}
+.section-four__food3{
+    height: 205px;
+    width: 150px;
+    display: inline-block;
+
+}
+.section-four__title,.section-four__description{
+    text-align: center;
+    font-size: 10px;
+}
+.section-four__button3{
+    background-color: black;
+    color: aliceblue;
+    margin-left:30px;
+    padding: 5px;
+}
+.section-five{
+    background-color: aliceblue;
+    margin-top: 2px;
+    border:solid black 1px;
+    display: inline-block;
+}
+.section-five__food4{
+    height:205px;
+    width: 150px;
+    display: inline-block;
+}
+.section-five__title,.section-five__description{
+    text-align: center;
+    font-size: 10px;
+}
+.section-five__button4{
+    background-color: black;
+    color: aliceblue;
+    margin-left: 30px;
+    padding: 5px;
+}
+.section-six{
+    background-color:black;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 5px;
+    padding: 10px;
+}
+.section-six__title{
+    padding: 5px;
+}
+.section-six__form{
+    /* margin-left: 350px;
+    margin-top: ; */
+    display: inline-block;
+}
+.section-six__sendbutton{
+    text-align: center;
+    background-color: gold;
+    width: 200px;
+    display: inline-block;
+   
+    
+}
+.section-six__tr1,.section-six__tr2,.section-six__tr3:hover{
+   border: none;
+   border-bottom: solid rgb(142, 142, 223) 1px;
+
+}
+.section-six__sendbutton a{
+    text-decoration: none;
+}
